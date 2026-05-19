@@ -72,3 +72,4 @@ Unity ve C# ile geliştirdiğim oynanabilir okul projesi.
 ## İletişim
 
 LinkedIn: https://www.linkedin.com/in/umut-uysal-comu/
+itch.io: https://umutko.itch.io/
