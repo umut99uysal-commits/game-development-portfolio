@@ -26,7 +26,7 @@ MATPAT, Unity ve C# ile geliştirdiğim matematik odaklı bir oyun prototipidir.
 **Teknolojiler:** Unity, C#  
 **Mekanikler:** Denklem çözme, cevap seçimi, puanlama, süre sistemi, oyuncu adı girişi, skor tablosu  
 **Puanlama:** Doğru cevap +10, yanlış cevap -5  
-**Öne çıkan özellik:** Aynı oturum içinde en yüksek puanı alan ilk 3 oyuncuyu gösteren lider tablosu  
+**Öne çıkan özellik:** Oyundan çıkış yapılıp tekrar girildiğinde de en yüksek puanı alan ilk 3 oyuncuyu gösteren kalıcı lider tablosu 
 **Durum:** Oynanabilir öğrenci projesi  
 **itch.io:** https://umutko.itch.io/matpat
 
