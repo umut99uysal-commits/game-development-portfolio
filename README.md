@@ -19,13 +19,16 @@ Troia Game Jam 2026 kapsamında ekip olarak geliştirdiğimiz 2D oyun prototipid
 
 ---
 
-### Okul Projesi 1
+### MATPAT - Matematik + Patlat
 
-Unity ve C# ile geliştirdiğim oynanabilir okul projesi.
+MATPAT, Unity ve C# ile geliştirdiğim matematik odaklı bir oyun prototipidir. Oyuncu ekrandaki ax + b = c formatındaki denklemde x değerini bulur ve 5 farklı cevap balonu arasından doğru olanı seçmeye çalışır.
 
 **Teknolojiler:** Unity, C#  
-**Durum:** Geliştirme / düzenleme aşamasında  
-**Bağlantılar:** Eklenecek.
+**Mekanikler:** Denklem çözme, cevap seçimi, puanlama, süre sistemi, oyuncu adı girişi, skor tablosu  
+**Puanlama:** Doğru cevap +10, yanlış cevap -5  
+**Öne çıkan özellik:** Aynı oturum içinde en yüksek puanı alan ilk 3 oyuncuyu gösteren lider tablosu  
+**Durum:** Oynanabilir öğrenci projesi  
+**itch.io:** https://umutko.itch.io/matpat
 
 ---
 
