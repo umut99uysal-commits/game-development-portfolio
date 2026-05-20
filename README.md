@@ -37,13 +37,15 @@ MATPAT, Unity ve C# ile geliştirdiğim matematik odaklı bir oyun prototipidir.
 
 ---
 
-### Okul Projesi 2
+### Vizesiz Uçuş - Harita ve Quiz Oyunu Prototipi
 
-Unity ve C# ile geliştirdiğim oynanabilir okul projesi.
+Vizesiz Uçuş, Unity ve C# ile geliştirdiğim ilk öğrenci oyun prototiplerimden biridir. Oyuncu, harita üzerindeki farklı pinlere tıklayarak uçağı seçilen konumlara yönlendirir. Ziyaret edilen konumlarda bilgi panelleri açılır ve tüm pinler tamamlandıktan sonra oyuncu quiz bölümüne geçer.
 
 **Teknolojiler:** Unity, C#  
-**Durum:** Geliştirme / düzenleme aşamasında  
-**Bağlantılar:** Eklenecek.
+**Mekanikler:** Harita üzerinde pin seçimi, uçak hareketi, bilgi panelleri, quiz sistemi, yanlış hakkı, kazanma/kaybetme ekranları  
+**Platformlar:** Windows, Android  
+**Durum:** İlk öğrenci oyun prototiplerimden biri  
+**itch.io:** https://umutko.itch.io/vizesiz-ucus
 
 ---
 
