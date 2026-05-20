@@ -8,14 +8,19 @@ Bu repoda geliştirdiğim oyun projelerini, game jam çalışmalarımı ve proto
 
 ## Projeler
 
+---
+
 ### Rutin Kırmak - Troia Game Jam 2026
 
-Troia Game Jam 2026 kapsamında ekip olarak geliştirdiğimiz 2D oyun prototipidir. Oyun, günlük rutinden çıkma fikri üzerine kurulmuştur.
+Rutin Kırmak, Troia Game Jam 2026 kapsamında ekip olarak geliştirdiğimiz top-down 2D psikolojik narrative oyun prototipidir. Oyuncu, sıradan bir ofis çalışanının tekrar eden günlük rutini içinde seçimler yapar ve bu seçimler farklı sonlara ulaşmasını sağlar.
 
-**Teknolojiler:** Unity, C#  
-**Rolüm:** Game Development, Gameplay Mechanics, Testing  
-**Durum:** Game jam projesi  
-**Bağlantılar:** itch.io ve GitHub bağlantıları eklenecek.
+**Teknolojiler:** Unity, C# 
+**Görsel Stil:** Pixel Art 
+**Mekanikler:** Günlük görev döngüsü, NPC etkileşimleri, diyalog sistemi, mini oyunlar, anomali sistemi, farklı sonlar  
+**Rolüm:** Oyun Geliştirici / Tasarımcı  
+**Durum:** Game jam ekip projesi  
+**GitHub:** https://github.com/alperen-sari/gamejam-midnight_pixels  
+**itch.io:** https://umutko.itch.io/rutin-kirmak
 
 ---
 
